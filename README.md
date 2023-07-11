@@ -1,1 +1,1 @@
-# landing-vitejs
+# Landing
