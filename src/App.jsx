@@ -1,4 +1,5 @@
 import './App.css'
+
 const people = [
   {
     name: 'Leslie Alexander',
